@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.thumbnail {
+  width: 220px;
+  height: 120px;
+}
+.trigger-button {
+  border: none;
+  background-color: transparent;
+}
